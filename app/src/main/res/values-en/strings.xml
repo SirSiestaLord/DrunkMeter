@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrunkMeter</string>
+
+    <string-array name="AlcoholesTurkishe">
+        <item>Beer</item>
+        <item>Raki</item>
+        <item>Wine</item>
+        <item>White Wine</item>
+        <item>Votka</item>
+        <item>Rom</item>
+        <item>Cin</item>
+        <item>Tekila</item>
+        <item>Liqour</item>
+        <item>Bourbon</item>
+        <item>Scotch</item>
+        <item>Whiskey</item>
+        <item>Martini</item>
+        <item>Mojito</item>
+        <item>Amaretto</item>
+        <item>Grand Marnier</item>
+        <item>Baileys</item>
+        <item>Champange</item>
+        <item>Tequila Sunrise</item>
+        <item>Kamikaze</item>
+        <item>B-52</item>
+        <item>Lemon Drop</item>
+        <item>Jägerbomb</item>
+        <item>Cosmopolitan</item>
+        <item>Margarita</item>
+        <item>Bloody Mary</item>
+
+    </string-array>
+    <string name="howmuch">How Much Did You Drank ? (as ml)</string>
+    <string name="percentage">Percentage of The Alcohol in drink</string>
+    <string name="adddrink">Add The Drink</string>
+    <string name="backtomen">Back to the Menu</string>
+    <string name="barnd">Brand ?</string>
+    <string name="dranknam">Drink Name ?</string>
+    <string name="alchols">Alcohols</string>
+    <string name="txton">Male</string>
+    <string name="txtoff">Female</string>
+    <string name="addtolist">Add To The List</string>
+
+    <string name="nameask">Name:</string>
+    <string name="brandask">Brand:</string>
+    <string name="perask">Percentage Of The Alcohol:%</string>
+    <string name="miliask">MiliLiter Of The Drink:</string>
+
+    <string name="totprois">Total Promil Is</string>
+    <string name="resultreset">Reset Results</string>
+    <string name="myalchols">My Alcohols</string>
+</resources>
